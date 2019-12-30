@@ -1,0 +1,6 @@
+D:\develop\VSProjects\Pool\Pool_lib\Pool_lib\obj\Debug\Pool_lib.csproj.CoreCompileInputs.cache
+D:\develop\VSProjects\Pool\Pool_lib\Pool_lib\bin\Debug\Pool_lib.dll
+D:\develop\VSProjects\Pool\Pool_lib\Pool_lib\bin\Debug\Pool_lib.pdb
+D:\develop\VSProjects\Pool\Pool_lib\Pool_lib\obj\Debug\Pool_lib.dll
+D:\develop\VSProjects\Pool\Pool_lib\Pool_lib\obj\Debug\Pool_lib.pdb
+D:\develop\VSProjects\Pool\Pool_lib\Pool_lib\obj\Debug\Pool_lib.csprojAssemblyReference.cache
